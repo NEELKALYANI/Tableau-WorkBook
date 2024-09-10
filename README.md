@@ -9,3 +9,9 @@
 
    ![Screenshot (124)](https://github.com/user-attachments/assets/b55b836e-0d2e-45fb-bf8b-77f49454a211)
 
+2) Covid-19 Dataset
+
+   Link: https://public.tableau.com/app/profile/neel.kalyani/viz/Covid-19Workbook_17259641715090/Dashboard1
+
+   ![Screenshot (126)](https://github.com/user-attachments/assets/692d478f-3083-40dd-918a-4e94ca55ce81)
+
